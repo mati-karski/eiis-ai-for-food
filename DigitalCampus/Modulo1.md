@@ -72,4 +72,3 @@ Il settore è dominato da piccole imprese con difficoltà nell'adozione tecnolog
 - Richiesta di dati strutturati (spesso non disponibili)  
 - Scarsa consapevolezza delle tecnologie applicabili  
 - Resistenza al cambiamento (costi aggiuntivi e formazione necessaria)
-- 
