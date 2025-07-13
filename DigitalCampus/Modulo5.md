@@ -21,4 +21,3 @@
 - **Compatibilità e interoperabilità** tra sistemi informatici diversi: la mancanza di interoperabilità rende difficile lo scambio automatico ed efficace di dati tra software, dispositivi e piattaforme utilizzate nelle aziende agricole. Questo limita la visione completa delle attività e obbliga spesso gli operatori a inserire manualmente le stesse informazioni in più sistemi, ostacolando l’efficienza operativa.
 - **Qualità e affidabilità dei dati:** dati poco accurati o incompleti possono compromettere le analisi e le decisioni.
 - **Privacy e proprietà dei dati:** la gestione condivisa dei dati solleva questioni su chi può accedere alle informazioni e come vengono protette.
-- 
